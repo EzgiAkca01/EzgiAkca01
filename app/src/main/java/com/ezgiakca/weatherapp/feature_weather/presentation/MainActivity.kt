@@ -1,7 +1,8 @@
-package com.ezgiakca.weatherapp
+package com.ezgiakca.weatherapp.feature_weather.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ezgiakca.weatherapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
